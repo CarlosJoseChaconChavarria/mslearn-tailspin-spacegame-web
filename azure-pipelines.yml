@@ -1,3 +1,4 @@
-pool: default
+pool:
+  vmImage: ubuntu-latest
 steps:
 - bash: echo hello world
